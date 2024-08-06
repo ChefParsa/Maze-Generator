@@ -1,2 +1,2 @@
 # Maze-Generator
-This Program Generates Maze
+this program generates maze and do path planning wtih bfs and dfs algorithms
